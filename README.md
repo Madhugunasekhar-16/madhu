@@ -1,7 +1,7 @@
 # madhu
 
 # 💫 About Me:
-🔭 I’m currently working on: Developing MediSwift, a full-stack medicine delivery application using the MERN stack.<br>👯 I’m looking to collaborate on: Open-source web development projects or modern React/Node.js applications.<br>🤝 I’m looking for help with: Mastering Agentic Workflow Engineering and advanced AI agent integrations.<br>🌱 I’m currently learning: High-level intent-based coding (Vibe Coding) and exploring the Meta Graph API for social insights.<br>💬 Ask me about: JavaScript, React.js, MongoDB, and deploying full-stack apps on Render.<br>⚡ Fun fact: I enjoy the logic of building productivity tools, like my recent Kanban board implementation for shipping logistics.<br>
+🔭 I’m previously worked on: Developed MediSwift, a full-stack medicine delivery application using the MERN stack.<br>👯 I’m looking to collaborate on: Open-source web development projects or modern React/Node.js applications.<br>🤝 I’m looking for help with: Mastering Agentic Workflow Engineering and advanced AI agent integrations.<br>🌱 I’m currently learning: High-level intent-based coding (Vibe Coding) and exploring the Meta Graph API for social insights.<br>💬 Ask me about: JavaScript, React.js, MongoDB, and deploying full-stack apps on Render.<br>⚡ Fun fact: I enjoy the logic of building productivity tools, like my recent Kanban board implementation for shipping logistics.<br>
 
 
 # 💻 Tech Stack:
